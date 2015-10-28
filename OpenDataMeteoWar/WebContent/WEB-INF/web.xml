@@ -1,0 +1,42 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	     xmlns="http://java.sun.com/xml/ns/javaee" 
+	     xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	     version="3.0">
+		 
+	<display-name>OpenData Weather Service</display-name>
+
+<!-- ////////////////// ALLOW DIRECTORY LISTING //////////////////////////// -->
+	<servlet>
+	    <servlet-name>DirectoryListing</servlet-name>
+	    <servlet-class>org.apache.catalina.servlets.DefaultServlet</servlet-class>
+	    <init-param>
+	        <param-name>listings</param-name>
+	        <param-value>true</param-value>
+	    </init-param>
+	    <load-on-startup>1</load-on-startup>
+	</servlet>
+	
+<!-- //////////////////////////// GUICE //////////////////////////////// -->
+	<filter>
+    	<filter-name>guiceFilter</filter-name>
+    	<filter-class>com.google.inject.servlet.GuiceFilter</filter-class>
+  	</filter>
+
+  	<filter-mapping>
+   		<filter-name>guiceFilter</filter-name>
+    	<url-pattern>/weatherforecasts/*</url-pattern>
+  	</filter-mapping>
+  	
+<!-- ///////////////////////// ServletContext /////////////////////////// -->
+  	<!-- ServletContextListener used to close resources like Lucene Indexers and background jobs executor services -->
+	<listener>
+ 		<listener-class>euskadi.opendata.meteo.internal.MeteoOpenDataServletContextListener</listener-class>
+ 	</listener>
+
+<!-- //////////////////////////// INDEX ///////////////////////////////// -->
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	
+</web-app>

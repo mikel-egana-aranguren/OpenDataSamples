@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<properties>
+	<!-- Codigos de las aplicaciones -->
+	<applicationCodes>
+		<contentManager>r01d</contentManager>
+		<structures>r01e</structures>
+		<framework>r01f</framework>
+		<portalAdmin>r01g</portalAdmin>
+		<portalRender>r01h</portalRender>
+		<integration>r01i</integration>
+		<publisher>r01j</publisher>
+		<searchEngine>r01k</searchEngine>
+		<userInterface>r01l</userInterface>
+		<api>r01m</api>
+		<systemAdministration>r01n</systemAdministration>
+	</applicationCodes>
+
+	<environment>
+		<code>lc</code>	<!-- loc=lc | sb_des=sd | sb_pru=sp | des=ds | pru=pr | pro=pd -->
+		<name>loc</name>	<!-- loc    | sb_des    | sb_pru    | des    | pru    | pro -->
+	</environment>
+
+	<!-- Lenguaje por defecto -->
+	<defaultLang>es</defaultLang>
+	<!--  Codigos de idiomas por defecto tanto para contenidos como para portales, se utilizan en caso de no poder obtenerlos de BD -->
+	<defaultLanguages>
+		<lang>eu</lang><lang>es</lang><lang>en</lang><lang>fr</lang><lang>de</lang><lang>cz</lang><lang>cn</lang><lang>da</lang><lang>fi</lang><lang>el</lang><lang>hu</lang><lang>it</lang><lang>jp</lang><lang>nl</lang><lang>no</lang><lang>pl</lang><lang>pt</lang><lang>sv</lang><lang>gl</lang><lang>ca</lang><lang>ar</lang><lang>ro</lang><lang>ru</lang><lang>ko</lang>
+	</defaultLanguages>
+
+   	<searchEngine>
+       	<!-- Numero de resultados por defecto para cada pagina de resultados -->
+       	<numberOfResultItemsPerPage>10</numberOfResultItemsPerPage>
+       	<!-- Umbral maximo para el numero de resultados devueltos, nunca se puede superar, si se desean todos hay que paginar -->
+       	<maxNumberOfResultItemsPerPage>1000</maxNumberOfResultItemsPerPage>
+
+   		<!-- Patron para obtener el tipo de query y su valor de las URLs -->
+       	<queryUrlPattern><![CDATA[.*\\?.*(searchGUID|r01kCommonSearchQry|r01kStoredQry|fullText|r01kQry|languageAplication)=([^&]+).*]]></queryUrlPattern>
+   	</searchEngine>
+</properties>

@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<searchSession lang='es'
+	sesionOid='r01fpd013df774614114758c845d0e652829a9450'>
+	<searchResultsBySource>
+		<searchSourceResults numberOfPages='13'
+			numberOfResultsPerPage='10' sourceOid='contenidos.inter'
+			numberOfResults='125'>
+			<navBar currentPageLastElementNumber='10'
+				totalNumberOfResults='125' totalNumberOfPages='13' navBarBlockSize='9'
+				currentPage='1' currentPageFirstElementNumber='1'>
+				<navBarItems>
+					<navBarItem itemType='pageX' pageNum='1' />
+					<navBarItem itemType='pageX' pageNum='2' />
+					<navBarItem itemType='pageX' pageNum='3' />
+					<navBarItem itemType='pageX' pageNum='4' />
+					<navBarItem itemType='pageX' pageNum='5' />
+					<navBarItem itemType='pageX' pageNum='6' />
+					<navBarItem itemType='pageX' pageNum='7' />
+					<navBarItem itemType='pageX' pageNum='8' />
+					<navBarItem itemType='pageX' pageNum='9' />
+					<navBarItem itemType='nextPage' pageNum='2' />
+					<navBarItem itemType='nextBlock' pageNum='10' />
+					<navBarItem itemType='lastPage' pageNum='13' />
+				</navBarItems>
+			</navBar>
+			<sourceDetails sourceName='Internet' sourceOid='contenidos.inter' />
+			<results>
+				<item itemId='unknown'>
+					<contentCreateDate>10/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Convocatoria de propuestas.EuropeAid/134140/L/ACT/GA. Gabon]]></fileTitle>
+					<documentAuthor>IFERNMAR</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wacexg6' serverOid='ejlp013' areaOid='accion_exterior'>
+						<workAreaPath>//iwmnt/euskadi/main/accion_exterior/WORKAREA/wacexg6/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/accion_exterior/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[ayudas_gabon]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013df33968f42297f8b854c8952ce1ebb3c</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461e3a470b89602cd52e9b70e15' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46232a470b89e7c621c0827981c' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01epd124776133c0102546e8b7fe3862a5dbadd5' role='1'
+							structureOid='r01epd124773fc3b1102546e88a6314cd0e4a85ff' />
+						<resultStructureCatalog
+							labelOid='r01epd01247c02b8b8dd55724be829bd209f6f83b' role='2'
+							structureOid='r01epd124773fc3b1102546e88a6314cd0e4a85ff' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b8618f7e296c596449' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd013c67589658160bed88a11d7f64837fc22' role='1'
+							structureOid='r01epd013c6bd5e1c81f8c4074933f13d2e04f641' />
+						<resultStructureCatalog
+							labelOid='r01epd013c6749199d13be5062bc6ccf23a2961a1' role='1'
+							structureOid='r01epd013c6bd216741f8c4077ed2409c2eef50ed' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>10/04/2013</documentCreateDate>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013df33e2a9d2297f8b31cce8e306c43a96><![CDATA[procedimiento_ayuda;main:ayudas_gabon.html]]></r01dpd013df33e2a9d2297f8b31cce8e306c43a96>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/ayudas_gabon
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>10/04/2013</contentNewnessUntilDate>
+					<contentResponsible>Delegación de Euskadi para la UE
+					</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/ayudas_gabon/es_ifm/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[ayudas_gabon.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>IFERNMAR</contentAuthor>
+					<fileResume><![CDATA[EuropeAid - Desarrollo y Cooperación (DEVCO);Dirección General de EuropeAid - Oficina de Cooperación,Acción exterior ,Asuntos europeos,Unión Europea,Fuera de la UE,Desarrollo y ayuda humanitaria,Administraciones,Empresas. Convocatoria de]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[<p>EuropeAid/134140/L/ACT/GA. Gabon</p>]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLineQuery><![CDATA[N]]></procedureOnLineQuery>
+						<procedureOnLineNotify><![CDATA[N]]></procedureOnLineNotify>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Wed Apr 10 00:00:00 CEST 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Fri May 24 00:00:00 CEST 2013]]></procedureEndDate>
+						<procedureOnLinePayment><![CDATA[N]]></procedureOnLinePayment>
+					</documentMetaData>
+					<documentContentRelativePath>es_ifm</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/ayudas_gabon/es_ifm/r01_gendata.txt]]></fileURL>
+					<documentDescription><![CDATA[Convocatoria de propuestas. Agentes  no estatales y autoridades locales para el desarrollo en Gabon]]></documentDescription>
+					<documentOid>r01dpd013df33deeec2297f8b1d399cc4894592f6
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/ayudas_gabon/es_ifm/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013df33968f42297f8b854c8952ce1ebb3c]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013df33968f42297f8b854c8952ce1ebb3c]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>ifm</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/ayudas_gabon/es_ifm
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='10/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[ayudas_gabon.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Convocatoria de propuestas.EuropeAid/134140/L/ACT/GA. Gabon]]></documentName>
+					<itemNumber>1</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/ayudas_gabon_thin.zip,0,]]></zipThin>
+						<zip><![CDATA[/opendata/ayudas_gabon.zip,0,]]></zip>
+						<xml><![CDATA[/ayudas_gabon-idxContent.xml,12952,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>18/02/2013</contentCreateDate>
+					<fileTitle><![CDATA[Centros de afianzamiento idiomático]]></fileTitle>
+					<documentAuthor>SQUINTAN</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='whoedp1' serverOid='ejlp013' areaOid='horizontal_educacion'>
+						<workAreaPath>//iwmnt/euskadi/main/horizontal_educacion/WORKAREA/whoedp1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/horizontal_educacion/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[egb_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>05F7E77136E431D507E34E4161716540CE6E3DE0</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0122e4ed314423e0db04c97a47b5baa317f' role='1'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000fe4e66771ba470b8c53a3375b90675c3' role='2'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d4654ea470b88b3fb04062bf2180' role='3'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46697a470b835eef953c9109e1f' role='4'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01eB6315627CB127C62CEE52E3C81D83A7AB49495C6' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d4628fa470b8acd3288a1e1eaf23' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>18/02/2013</documentCreateDate>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<DB0B426D0F1105C436F88DF068C916E084ED19DA><![CDATA[ayuda_x88;main:index.shtml]]></DB0B426D0F1105C436F88DF068C916E084ED19DA>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/egb_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>18/02/2013</contentNewnessUntilDate>
+					<contentResponsible>SQUINTAN</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/egb_2013/es_def/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[index.shtml]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>SQUINTAN</contentAuthor>
+					<fileResume><![CDATA[Euskera ,Viceconsejería de Educación,Educación Política Lingüística y Cultura,Gobierno Vasco,Dirección de Innovación Educativa,Empresas,Aprendizaje del euskara. Centros de afianzamiento idiomático. Centros de afianzamiento idiomático.]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Centros de afianzamiento idiomático]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureValidity><![CDATA[Fri Apr 19 00:00:00 CEST 2013]]></procedureValidity>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[S]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Mon Mar 18 00:00:00 CET 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Fri Apr 19 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_def</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/egb_2013/es_def/r01_gendata.txt]]></fileURL>
+					<documentDescription><![CDATA[Centros de afianzamiento idiomático]]></documentDescription>
+					<documentOid>EFA1140185CDC3D7E8FDC35A083FBDCE7055553D</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/egb_2013/es_def/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=05F7E77136E431D507E34E4161716540CE6E3DE0]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=05F7E77136E431D507E34E4161716540CE6E3DE0]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>def</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/egb_2013/es_def
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='0' date='15/03/2013' repositoryOid='Inter' />
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='08/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[index.shtml]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Centros de afianzamiento idiomático]]></documentName>
+					<itemNumber>2</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/egb_2013_thin.zip,67802,]]></zipThin>
+						<zip><![CDATA[/opendata/egb_2013.zip,11610784,]]></zip>
+						<xml><![CDATA[/egb_2013-idxContent.xml,18869,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>02/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[PFC PROFESORADO - Se convoca a Entidades Públicas y Privadas que deseen colaborar con el Departamento a la presentación de proyectos para el desarrollo del Plan de Formación Continua del Profesorado.]]></fileTitle>
+					<documentAuthor>MELORRII</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='whoedp1' serverOid='ejlp013' areaOid='horizontal_educacion'>
+						<workAreaPath>//iwmnt/euskadi/main/horizontal_educacion/WORKAREA/whoedp1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/horizontal_educacion/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[pfc_profesorado2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dc9dbe71e178b53f323baacd65aa7d67</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01epd01211f3c977744d6f9346add17e1a3d9c0e' />
+						<resultStructureCatalog
+							labelOid='r01epd01211f3b5de744d6f93aab54d0d4e90b1e4' role='1'
+							structureOid='r01epd01211f3c977744d6f9346add17e1a3d9c0e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b8618f7e296c596449' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd01211f3b5bd644d6f93879a52a05c739942' role='2'
+							structureOid='r01epd01211f3c977744d6f9346add17e1a3d9c0e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46697a470b835eef953c9109e1f' role='4'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d462dda470b84ccb8017bdba5ee3' role='2'
+							structureOid='r01epd01211f3c977744d6f9346add17e1a3d9c0e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d4654ea470b88b3fb04062bf2180' role='3'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01epd01211f3b5f2d44d6f931c03b3296392ba3f' role='2'
+							structureOid='r01epd01211f3c977744d6f9346add17e1a3d9c0e' />
+						<resultStructureCatalog
+							labelOid='r01e00010944fdc2d948bf4e02731bf8b16a49a90' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000fe4e66771ba470b8bb90b19f6ac6cf49' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01epd0122e4ed314423e0db04c97a47b5baa317f' role='1'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000fe4e66771ba470b8c53a3375b90675c3' role='2'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>02/04/2013</documentCreateDate>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dc9dbe71f178b53faa0557107bc602e9><![CDATA[procedimiento_ayuda_v2;main:pfc_profesorado.html]]></r01dpd013dc9dbe71f178b53faa0557107bc602e9>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/pfc_profesorado2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>16/02/2012</contentNewnessUntilDate>
+					<contentResponsible>Julián Lana</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/pfc_profesorado2013/es_pfc_prof/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[pfc_profesorado.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>MELORRII</contentAuthor>
+					<fileResume><![CDATA[Asociaciones,Viceconsejería de Educación,Educación Política Lingüística y Cultura,Educación,Innovación educativa,Conservatorios de Música,Gobierno Vasco,Centros de formación,Dirección de Innovación]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[PFC PROFESORADO - Se convoca a Entidades Públicas y Privadas que deseen colaborar con el Departamento a la presentación de proyectos para el desarrollo del Plan de Formación Continua del Profesorado.]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Fri Apr 05 00:00:00 CEST 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Wed Apr 24 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_pfc_prof
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/pfc_profesorado2013/es_pfc_prof/r01_gendata.txt]]></fileURL>
+					<documentDescription><![CDATA[Entidades Públicas y Privadas que deseen colaborar con el Departamento de Educación, Política Lingüística y Cultura.]]></documentDescription>
+					<documentOid>r01dpd013dc9dbe71e178b53f7c95ca1170a56345
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/pfc_profesorado2013/es_pfc_prof/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dc9dbe71e178b53f323baacd65aa7d67]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dc9dbe71e178b53f323baacd65aa7d67]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>pfc_prof</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/pfc_profesorado2013/es_pfc_prof
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='04/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[pfc_profesorado.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[PFC PROFESORADO - Se convoca a Entidades Públicas y Privadas que deseen colaborar con el Departamento a la presentación de proyectos para el desarrollo del Plan de Formación Continua del Profesorado.]]></documentName>
+					<itemNumber>3</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/pfc_profesorado2013_thin.zip,30252,]]></zipThin>
+						<zip><![CDATA[/opendata/pfc_profesorado2013.zip,30444,]]></zip>
+						<xml><![CDATA[/pfc_profesorado2013-idxContent.xml,20144,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>04/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Asesoramiento para la creación y puesta en marcha de proyectos empresariales. Bizkaia 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[dfb_dpromoc_asesoram_empr_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dd43c52e2195ee9ab765b8aa7ccd71c1</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c950ed02d3ba1cb99dc579530d9' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c835ed02d3befa15a55abc7fb44' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c950ed02d3ba1cb99dc579530d9' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c9afed02d3b95eda7cbb3d46340' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01eC784B1B711EAB78C2CD805459C6E58DE5B005E43' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46212a470b818464daec45c59fa' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e25E5DCC19D9B360FF6CC96610ADD2B9EC3957467' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b88468d07873a13d8e' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8eec6d2aae38c782b' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86b97a33338f9eb01' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b9ba43d1831b84f7f2d1d7488de92d8' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b82043400c8af39732' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c2e4ed02d3b9e8a7bf6c2b57353' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c375c4e1bfc566db81a063c05283a0' role='1'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c11fe431bfc56682df59afa47dace3' role='2'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>04/04/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dd43c7bf4195ee9a73514fb6919260e1><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013dd43c7bf4195ee9a73514fb6919260e1>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/dfb_dpromoc_asesoram_empr_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>04/04/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/dfb_dpromoc_asesoram_empr_2013/es_dfb_dp/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Generación conocimiento,Departamento de Innovación y Promoción Económica,Creación de empresas,Comercio,Turismo,Apoyo a las empresas,Orientación para el empleo,Aportación financiera,Organismos de apoyo,Diputación Foral de]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Asesoramiento para la creación y puesta en marcha de proyectos empresariales. Bizkaia 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Wed Mar 27 00:00:00 CET 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Tue Apr 16 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_dfb_dp
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/dfb_dpromoc_asesoram_empr_2013/es_dfb_dp/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013dd43c7bf4195ee9a135a830b554b05d2
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/dfb_dpromoc_asesoram_empr_2013/es_dfb_dp/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd43c52e2195ee9ab765b8aa7ccd71c1]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd43c52e2195ee9ab765b8aa7ccd71c1]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>dfb_dp</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/dfb_dpromoc_asesoram_empr_2013/es_dfb_dp
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='04/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Asesoramiento para la creación y puesta en marcha de proyectos empresariales. Bizkaia 2013]]></documentName>
+					<itemNumber>4</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/dfb_dpromoc_asesoram_empr_2013_thin.zip,0,]]></zipThin>
+						<zip><![CDATA[/opendata/dfb_dpromoc_asesoram_empr_2013.zip,0,]]></zip>
+						<xml><![CDATA[/dfb_dpromoc_asesoram_empr_2013-idxContent.xml,20433,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>04/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Subvenciones para apoyo a agrupaciones empresariales innovadoras. 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[age_mindus_agrup_empres_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dd43094cc195ee9a1d3c772b23f27529</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c7b8ed02d3b672fdb9b9e1b835c' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c53eed02d3beee5fbaf3d8f92cd' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c5a8ed02d3b881c0eab179f1896' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c9afed02d3b95eda7cbb3d46340' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e000000ff26d46212a470b8d48bb3416b64da7' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b88468d07873a13d8e' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b869e0a8c6ce98d581' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e4CB37BBE5DC852931897CEC9281BB5CDAFEEC35E' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8e32a824c59811d75' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b853f0bc63bc1e7d39' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86b97a33338f9eb01' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8192837da9739ac29' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86db5866492aff057' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b87c960d09d591812a' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8eec6d2aae38c782b' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b865b895b9813be988' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b82043400c8af39732' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b82043400c8af39732' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b88468d07873a13d8e' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8eec6d2aae38c782b' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86b97a33338f9eb01' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b9ba43d1831b84f7f2d1d7488de92d8' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c2e4ed02d3b9e8a7bf6c2b57353' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd124775edd21102546e8c4be1ac6dbb78309' role='1'
+							structureOid='r01epd124773d9e85102546e83b50e8901e01dca8' />
+						<resultStructureCatalog
+							labelOid='r01epd01247b822b03dd5572413a2990ad58d8865' role='2'
+							structureOid='r01epd124773d9e85102546e83b50e8901e01dca8' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>04/04/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dd4309a5a195ee9a1271aae3aa5be6c7><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013dd4309a5a195ee9a1271aae3aa5be6c7>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/age_mindus_agrup_empres_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>04/04/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/age_mindus_agrup_empres_2013/es_age_mi/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Gobierno Central,Innovación,Promoción empresarial,Turismo,Comercio,Aportación financiera,Transportes,Construcción,Organismos de apoyo,Ministerio de Industria Turismo y Comercio,Pesca,Consumo,Informática y Telecomunicaciones,Crecimiento y]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Subvenciones para apoyo a agrupaciones empresariales innovadoras. 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Thu Mar 28 00:00:00 CET 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Sat Apr 27 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_age_mi
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/age_mindus_agrup_empres_2013/es_age_mi/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013dd4309a5a195ee9a749613861318f33f
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/age_mindus_agrup_empres_2013/es_age_mi/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd43094cc195ee9a1d3c772b23f27529]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd43094cc195ee9a1d3c772b23f27529]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>age_mi</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/age_mindus_agrup_empres_2013/es_age_mi
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='04/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Subvenciones para apoyo a agrupaciones empresariales innovadoras. 2013]]></documentName>
+					<itemNumber>5</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/age_mindus_agrup_empres_2013_thin.zip,31449,]]></zipThin>
+						<zip><![CDATA[/opendata/age_mindus_agrup_empres_2013.zip,31861,]]></zip>
+						<xml><![CDATA[/age_mindus_agrup_empres_2013-idxContent.xml,25550,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>04/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Ayudas agroambientales. Bizkaia 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[dfb_dagricultura_agroamb_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dd3df66e4195ee9aa34f7e59afc0454b</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c746ed02d3be4cca5b076134fc8' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c5a8ed02d3b881c0eab179f1896' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8384c1e45db239b9c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8384c1e45db239b9c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e000000ff26d46212a470b8d48bb3416b64da7' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b81d4575171a3f94f1' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b895f0b3cddefc0bea' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46212a470b845ecb637861b7081' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01eC2EB10BCF7D0A926F6E02CF2A1FE7F4ABB0DDE93' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b81d4575171a3f94f1' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c2e4ed02d3b9e8a7bf6c2b57353' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c375c4e1bfc566db81a063c05283a0' role='1'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c11fc411bfc5664389889d61ebfeea' role='2'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>04/04/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dd3df72a3195ee9a937d67693e192c37><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013dd3df72a3195ee9a937d67693e192c37>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/dfb_dagricultura_agroamb_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>04/04/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/dfb_dagricultura_agroamb_2013/es_dfb_da/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Medio Ambiente,Crecimiento y desarrollo,Departamento de Agricultura,Actividades Económicas,Desarrollo Rural,Agricultura Ganadería y Forestal,Diputación Foral de Bizkaia,Desarrollo Sostenible,Personas,Aportación financiera,Empresas,Desarrollo]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Ayudas agroambientales. Bizkaia 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Thu Apr 04 00:00:00 CEST 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Tue Apr 30 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_dfb_da
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/dfb_dagricultura_agroamb_2013/es_dfb_da/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013dd3df72a2195ee9a2afe9c6b85b6c1d5
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/dfb_dagricultura_agroamb_2013/es_dfb_da/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd3df66e4195ee9aa34f7e59afc0454b]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dd3df66e4195ee9aa34f7e59afc0454b]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>dfb_da</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/dfb_dagricultura_agroamb_2013/es_dfb_da
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='04/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Ayudas agroambientales. Bizkaia 2013]]></documentName>
+					<itemNumber>6</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/dfb_dagricultura_agroamb_2013_thin.zip,16506,]]></zipThin>
+						<zip><![CDATA[/opendata/dfb_dagricultura_agroamb_2013.zip,16716,]]></zip>
+						<xml><![CDATA[/dfb_dagricultura_agroamb_2013-idxContent.xml,20826,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>03/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Becas de formación práctica en viticultura y enología en la Estación de Fruticultura de Zalla. Bizkaia, 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[dfb_agricult_viticult_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dce8ac19c195ee9ac48f2fb30d3d4bb2</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c835ed02d3befa15a55abc7fb44' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd00124b569c8caed02d3b97e283d852d0d55' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c5a8ed02d3b881c0eab179f1896' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46212a470b818464daec45c59fa' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e1465A9D6957049B8D32E8933DE1E5E71E5DD92E8' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b82043400c8af39732' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e000000ff26d46212a470b8d48bb3416b64da7' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b81d4575171a3f94f1' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46260a470b82043400c8af39732' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c409ed02d3b983af334aa35f3b9' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c375c4e1bfc566db81a063c05283a0' role='1'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c11fc411bfc5664389889d61ebfeea' role='2'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>03/04/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dce8acf5e195ee9a7f440996f81ccc9d><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013dce8acf5e195ee9a7f440996f81ccc9d>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/dfb_agricult_viticult_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>03/04/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/dfb_agricult_viticult_2013/es_dfb_ag/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Crecimiento y desarrollo,Generación conocimiento,Departamento de Agricultura,Actividades Económicas,Agricultura Ganadería y Forestal,Diputación Foral de Bizkaia,Personas,Trabajo y empleo,Agroalimentación,Becas,Formación para]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Becas de formación práctica en viticultura y enología en la Estación de Fruticultura de Zalla. Bizkaia, 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[n]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Wed Apr 03 00:00:00 CEST 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Wed Apr 17 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_dfb_ag
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/dfb_agricult_viticult_2013/es_dfb_ag/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013dce8acf5e195ee9a8dbed7cb82d7cbc3
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/dfb_agricult_viticult_2013/es_dfb_ag/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dce8ac19c195ee9ac48f2fb30d3d4bb2]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dce8ac19c195ee9ac48f2fb30d3d4bb2]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>dfb_ag</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/dfb_agricult_viticult_2013/es_dfb_ag
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='03/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Becas de formación práctica en viticultura y enología en la Estación de Fruticultura de Zalla. Bizkaia, 2013]]></documentName>
+					<itemNumber>7</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/dfb_agricult_viticult_2013_thin.zip,0,]]></zipThin>
+						<zip><![CDATA[/opendata/dfb_agricult_viticult_2013.zip,0,]]></zip>
+						<xml><![CDATA[/dfb_agricult_viticult_2013-idxContent.xml,19320,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>02/04/2013</contentCreateDate>
+					<fileTitle><![CDATA[Ayudas agroambientales. Gipuzkoa 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[dfg_inno_agroamb_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013dcb20e1cf2a0954cdcccac1c7acfef37</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c746ed02d3be4cca5b076134fc8' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c5a8ed02d3b881c0eab179f1896' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8384c1e45db239b9c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8384c1e45db239b9c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e000000ff26d46212a470b8d48bb3416b64da7' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b81d4575171a3f94f1' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b81d4575171a3f94f1' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c2e4ed02d3b9e8a7bf6c2b57353' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c3c8ea11bfc566ecc1955cc67af963' role='1'
+							structureOid='r01epd01218c1eae171bfc5662b0d7e1a0d07dedd' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c125ac41bfc566c6ee450a0bf7a92c' role='2'
+							structureOid='r01epd01218c1eae171bfc5662b0d7e1a0d07dedd' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>02/04/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013dcb2102dc2a0954cca72d05e6c557120><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013dcb2102dc2a0954cca72d05e6c557120>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/dfg_inno_agroamb_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>02/04/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/dfg_inno_agroamb_2013/es_dfg_in/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Diputación Foral de Gipuzkoa,Crecimiento y desarrollo,Actividades Económicas,Agricultura Ganadería y Forestal,Personas,Departamento de Desarrollo del Medio Rural,Aportación financiera,Empresas,Desarrollo territorial. Ayudas agroambientales.]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Ayudas agroambientales. Gipuzkoa 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[n]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Wed Mar 27 00:00:00 CET 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Tue Apr 30 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_dfg_in
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/dfg_inno_agroamb_2013/es_dfg_in/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013dcb2102db2a0954c1ab5b8986f681fde
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/dfg_inno_agroamb_2013/es_dfg_in/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dcb20e1cf2a0954cdcccac1c7acfef37]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013dcb20e1cf2a0954cdcccac1c7acfef37]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>dfg_in</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/dfg_inno_agroamb_2013/es_dfg_in
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='02/04/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Ayudas agroambientales. Gipuzkoa 2013]]></documentName>
+					<itemNumber>8</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/dfg_inno_agroamb_2013_thin.zip,19485,]]></zipThin>
+						<zip><![CDATA[/opendata/dfg_inno_agroamb_2013.zip,19677,]]></zip>
+						<xml><![CDATA[/dfg_inno_agroamb_2013-idxContent.xml,19068,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>20/03/2013</contentCreateDate>
+					<fileTitle><![CDATA[Convocatoria para la presentación de proyectos para el programa Juventud Vasca Cooperante de la Administración General de la CAE en 2013]]></fileTitle>
+					<documentAuthor>JGEREDIA</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wjuvep1' serverOid='ejlp013' areaOid='juventud'>
+						<workAreaPath>//iwmnt/euskadi/main/juventud/WORKAREA/wjuvep1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/juventud/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[13_lankidetza]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013d870ee24d12bdd794b33b01b739b5334</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e38FEA556AED02115586B95FAE7404AACB31BA74B' role='3'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0122e4ed314423e0db04c97a47b5baa317f' role='1'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461b5a470b851d7a97ba59ab535' role='2'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46212a470b83de7fedc2cf6d8b0' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461b5a470b8d02b206e81ee3dbe' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d465bca470b813ace4356db5b18d' role='3'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d466e5a470b82c3db9991e4c8a74' role='4'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461b5a470b8d02b206e81ee3dbe' role='2'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01e00000fe4e66771ba470b8c53a3375b90675c3' role='2'
+							structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>20/03/2013</documentCreateDate>
+					<contentDescription><![CDATA[ORDEN de 20 de marzo de 2013, de la Consejera de Educación, Política Lingüïstica y Cultura, por la que se convoca a entidades de cooperación al desarrollo para la presentación de proyectos para el programa «Juventud Vasca Cooperante» en 2013.]]></contentDescription>
+					<documentDepthLevel>2</documentDepthLevel>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013d870ee24e12bdd79d0536822f17a40a5><![CDATA[procedimiento_ayuda_v2;main:lankidetza.html]]></r01dpd013d870ee24e12bdd79d0536822f17a40a5>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/13_lankidetza
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>15/04/2013</contentNewnessUntilDate>
+					<contentResponsible>Bakarne Zuazua</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/13_lankidetza/es_lank/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[lankidetza.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>JGEREDIA</contentAuthor>
+					<fileResume><![CDATA[Dirección de Juventud,Cultura,Educación Política Lingüística y Cultura,Gobierno Vasco,Personas,Sectores,Viceconsejería de Cultura Juventud y Deportes,Sector Terciario (servicios ...),Juventud,Empresas. Convocatoria para la presentación de]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Convocatoria para la presentación de proyectos para el programa Juventud Vasca Cooperante de la Administración General de la CAE en 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[N]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Thu Mar 21 00:00:00 CET 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Sat Apr 20 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_lank</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/13_lankidetza/es_lank/r01_gendata.txt]]></fileURL>
+					<documentDescription><![CDATA[ORDEN de 20 de marzo de 2013, de la Consejera de Educación, Política Lingüística y Cultura, por la que se convoca a entidades de cooperación al desarrollo para la presentación de proyectos para el programa «Juventud Vasca Cooperante» de la Administración General de la CAE en 2013.]]></documentDescription>
+					<documentOid>r01dpd013d870ee24e12bdd7951552d4c1007f2f0
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/13_lankidetza/es_lank/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013d870ee24d12bdd794b33b01b739b5334]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013d870ee24d12bdd794b33b01b739b5334]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>lank</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/13_lankidetza/es_lank
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='27/03/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[lankidetza.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Convocatoria para la presentación de proyectos para el programa Juventud Vasca Cooperante de la Administración General de la CAE en 2013]]></documentName>
+					<itemNumber>9</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/13_lankidetza_thin.zip,59722,]]></zipThin>
+						<zip><![CDATA[/opendata/13_lankidetza.zip,142208,]]></zip>
+						<xml><![CDATA[/13_lankidetza-idxContent.xml,20564,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+				<item itemId='unknown'>
+					<contentCreateDate>27/03/2013</contentCreateDate>
+					<fileTitle><![CDATA[Programa Bizkaia Creativa. 2013]]></fileTitle>
+					<documentAuthor>w66t</documentAuthor>
+					<contentLocation dataStoreOid='euskadi'
+						workAreaOid='wdelfg1' serverOid='ejlp013' areaOid='delfos'>
+						<workAreaPath>//iwmnt/euskadi/main/delfos/WORKAREA/wdelfg1/
+						</workAreaPath>
+						<serverPath>//iwmnt/</serverPath>
+						<dataStorePath>//iwmnt/euskadi/</dataStorePath>
+						<areaPath>//iwmnt/euskadi/main/delfos/</areaPath>
+					</contentLocation>
+					<contentName><![CDATA[dfb_dpromoc_creativa_2013]]></contentName>
+					<documentLanguage>es</documentLanguage>
+					<contentOid>r01dpd013daaf42fd4195ee9a5cae7d2cb7c194ee</contentOid>
+					<structureCatalogs>
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c53eed02d3beee5fbaf3d8f92cd' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c7b8ed02d3b672fdb9b9e1b835c' role='1'
+							structureOid='r01epd124777dc67d102546e8581bafa62990fc9f' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c53eed02d3beee5fbaf3d8f92cd' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c6b3ed02d3b643ffe16c3bfc929' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c5a8ed02d3b881c0eab179f1896' role='1'
+							structureOid='r01epd124777bb683102546e8782ef3bef0251c98' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01epd124778b7ded102546e83186ecd951598a1e' />
+						<resultStructureCatalog
+							labelOid='r01e000000ff26d46212a470b8d48bb3416b64da7' role='1'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b8192837da9739ac29' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01epd0115f50715c7642d91c668d52eb6eb979e6' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86b97a33338f9eb01' role='2'
+							structureOid='r01e00000fe4e6676dda470b898e584a4a1047312' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b9ba43d1831b84f7f2d1d7488de92d8' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d46251a470b86b97a33338f9eb01' role='1'
+							structureOid='r01epd01247bad7a50dd5572482897cff1d60f424' />
+						<resultStructureCatalog
+							labelOid='r01e00000ff26d461a5a470b86b47bd2b449069f3' role='1'
+							structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9' />
+						<resultStructureCatalog
+							labelOid='r01epd0124b569c2e4ed02d3b9e8a7bf6c2b57353' role='1'
+							structureOid='r01epd124777a60ca102546e87381ebc8995c37eb' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c375c4e1bfc566db81a063c05283a0' role='1'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+						<resultStructureCatalog
+							labelOid='r01epd01218c11fe431bfc56682df59afa47dace3' role='2'
+							structureOid='r01epd01218c1debf91bfc566ea7600169dddca24' />
+					</structureCatalogs>
+					<documentApprovalStatus>0</documentApprovalStatus>
+					<documentCreateDate>27/03/2013</documentCreateDate>
+					<contentDescription><![CDATA[descripcion]]></contentDescription>
+					<documentDataFilesGeneratedFilesDocumentRelativePaths>
+						<r01dpd013daaf440a7195ee9abbec49a00d089f96><![CDATA[procedimiento_ayuda_v2;main:es_arch.html]]></r01dpd013daaf440a7195ee9abbec49a00d089f96>
+					</documentDataFilesGeneratedFilesDocumentRelativePaths>
+					<contentWorkAreaRelativePath>ayuda_subvencion/dfb_dpromoc_creativa_2013
+					</contentWorkAreaRelativePath>
+					<score>96.0</score>
+					<contentNewnessUntilDate>27/03/2013</contentNewnessUntilDate>
+					<contentResponsible>w66t</contentResponsible>
+					<fileWorkAreaRelativePath>/ayuda_subvencion/dfb_dpromoc_creativa_2013/es_dfb_dp/r01_gendata.txt
+					</fileWorkAreaRelativePath>
+					<documentMainDataFileDefaultGeneratedFileDocumentRelativePath><![CDATA[es_arch.html]]></documentMainDataFileDefaultGeneratedFileDocumentRelativePath>
+					<contentAuthor>w66t</contentAuthor>
+					<fileResume><![CDATA[Sociedad de la información,Innovación,Promoción empresarial,Departamento de Innovación y Promoción Económica,Aportación financiera,Internacionalización,Informática y Telecomunicaciones,Crecimiento y desarrollo,Actividades]]></fileResume>
+					<documentMetaData>
+						<procedureDenomination><![CDATA[Programa Bizkaia Creativa. 2013]]></procedureDenomination>
+						<procedureSolved><![CDATA[n]]></procedureSolved>
+						<procedureStatus><![CDATA[16]]></procedureStatus>
+						<procedureHistorical><![CDATA[N]]></procedureHistorical>
+						<procedureOnLine><![CDATA[N]]></procedureOnLine>
+						<procedureStartDate><![CDATA[Tue Apr 02 00:00:00 CEST 2013]]></procedureStartDate>
+						<procedureEndDate><![CDATA[Fri May 31 00:00:00 CEST 2013]]></procedureEndDate>
+					</documentMetaData>
+					<documentContentRelativePath>es_dfb_dp
+					</documentContentRelativePath>
+					<fileURL><![CDATA[http://www.euskadi.net/contenidos/ayuda_subvencion/dfb_dpromoc_creativa_2013/es_dfb_dp/r01_gendata.txt]]></fileURL>
+					<documentOid>r01dpd013daaf440a7195ee9ab05e3dbab7b9fbc1
+					</documentOid>
+					<fileAbsolutePath>/aplic/r32/html/ayuda_subvencion/dfb_dpromoc_creativa_2013/es_dfb_dp/r01_gendata.txt
+					</fileAbsolutePath>
+					<contentEditURLs>
+						<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013daaf42fd4195ee9a5cae7d2cb7c194ee]]></es>
+						<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013daaf42fd4195ee9a5cae7d2cb7c194ee]]></eu>
+					</contentEditURLs>
+					<searchSourceOid>autonomy</searchSourceOid>
+					<documentInternalName>dfb_dp</documentInternalName>
+					<documentWorkAreaRelativePath>ayuda_subvencion/dfb_dpromoc_creativa_2013/es_dfb_dp
+					</documentWorkAreaRelativePath>
+					<fileName><![CDATA[r01_gendata.txt]]></fileName>
+					<documentPublicationInfo>
+						<repositoryPubInfo repositoryAlias='contenidos'
+							state='1' date='27/03/2013' repositoryOid='Inter' />
+					</documentPublicationInfo>
+					<documentMainDataFileGeneratedFilesDocumentRelativePaths>
+						<main><![CDATA[es_arch.html]]></main>
+					</documentMainDataFileGeneratedFilesDocumentRelativePaths>
+					<searchEngineDBName>euskadi_db</searchEngineDBName>
+					<documentName><![CDATA[Programa Bizkaia Creativa. 2013]]></documentName>
+					<itemNumber>10</itemNumber>
+					<isDocumentMainDataFile>false</isDocumentMainDataFile>
+					<contentTypology familyOid='procedimientos_administrativos'
+						typeOid='ayuda_subvencion' familyNumericId='0' numericId='0'
+						clusterOid='euskadi' typeNumericId='0' clusterNumericId='0' />
+					<contentRispDocumentsInfo>
+						<zipThin><![CDATA[/opendata/dfb_dpromoc_creativa_2013_thin.zip,0,]]></zipThin>
+						<zip><![CDATA[/opendata/dfb_dpromoc_creativa_2013.zip,0,]]></zip>
+						<xml><![CDATA[/dfb_dpromoc_creativa_2013-idxContent.xml,19558,]]></xml>
+					</contentRispDocumentsInfo>
+				</item>
+			</results>
+		</searchSourceResults>
+	</searchResultsBySource>
+	<totalNumberOfResults>125</totalNumberOfResults>
+	<query isFullTextSearch='false'>
+		<orderByMetaData>
+			<orderBy oid='createDate'>
+				<order>ASC</order>
+			</orderBy>
+		</orderByMetaData>
+		<fullTextWordCount>-1</fullTextWordCount>
+		<publishedItemsOnly>true</publishedItemsOnly>
+		<contentTypes>
+			<type oid='ayuda_subvencion' numericId='-1' />
+		</contentTypes>
+		<contentClusters>
+			<contentCluster oid='euskadi' numericId='-1' />
+		</contentClusters>
+		<queryOid>r01mpd013df77461401601b717629f2a860c2cba5</queryOid>
+		<modified>false</modified>
+		<searchedMetaData>
+			<metaData oid='procedureStatus'>
+				<value>16</value>
+				<operationSelected>EQ</operationSelected>
+			</metaData>
+			<metaData oid='documentLanguage'>
+				<value>es</value>
+				<operationSelected>EQ</operationSelected>
+			</metaData>
+		</searchedMetaData>
+		<context>internet</context>
+		<catalogLabelsAnd>
+			<labelsItem labelOid='cA' structureOid='' labelNumericId='-1'>
+				<useStructureAndRole>false</useStructureAndRole>
+				<role></role>
+			</labelsItem>
+		</catalogLabelsAnd>
+		<returnDocuments>true</returnDocuments>
+		<contentFamilies>
+			<family oid='procedimientos_administrativos' numericId='-1' />
+		</contentFamilies>
+		<returnAttachments>false</returnAttachments>
+		<returnDataFiles>true</returnDataFiles>
+		<saveQuery>false</saveQuery>
+	</query>
+</searchSession>

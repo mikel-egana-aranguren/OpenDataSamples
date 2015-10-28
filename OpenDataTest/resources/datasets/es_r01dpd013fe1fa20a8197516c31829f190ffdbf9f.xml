@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opendata>
+	<detalle_datos>
+		<tipoLicencia><![CDATA[cc]]></tipoLicencia>
+		<fuente_departamentos><![CDATA[Gobierno Vasco y Organismos Autónomos.]]></fuente_departamentos>
+		<periodo_inicio>01/01/2013 [12:58:13:215]</periodo_inicio>
+		<fecha_creacion>15/07/2013 [12:58:13:215]</fecha_creacion>
+		<licencia><![CDATA[<p><a href="/w79-contgen/es/contenidos/informacion/info_legal/es_info_leg/info_legal.html">Informaci&#243;n legal</a></p>]]></licencia>
+		<fecha_difusion>15/07/2013 [12:58:13:215]</fecha_difusion>
+		<periodicidad><![CDATA[32]]></periodicidad>
+		<etiquetas><![CDATA[estructura, gobierno, organización, guía, organigrama, área actuación, competencia, funciones]]></etiquetas>
+	</detalle_datos>
+	<enlaces_documentaciones_asociadas>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Cómo utilizar los datos]]></texto>
+			<target_documento><![CDATA[0]]></target_documento>
+			<enlace_relacionado><![CDATA[/w79-utilizar/es/contenidos/informacion/como_utilizar_datos/es_como_uti/como_utilizar.html]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[API del buscador de euskadi.net]]></texto>
+			<target_documento><![CDATA[0]]></target_documento>
+			<enlace_relacionado><![CDATA[/w79-utilizar/es/contenidos/informacion/api_buscador_euskadinet/es_java/como_utilizar.html]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+	</enlaces_documentaciones_asociadas>
+	<datos_generales>
+		<orden><![CDATA[0]]></orden>
+		<es_estadistica>1</es_estadistica>
+		<denominacion>Organización y estructura del Gobierno Vasco y sus
+			Organismos Autónomos</denominacion>
+		<datasets><![CDATA[[{"texto":"ZIP","tamanio":0,"tipo":"ZIP","path":"/w79-contdata/es/contenidos/ds_organizacion/organizacion_estructura/opendata/organizacion_estructura_es.zip","unidades":"KB"},{"texto":"API","tamanio":0,"tipo":"API","path":"http://opendata.euskadi.net/w79-resbus/es?r01kQry=tC:euskadi;tF:organizacion;tT:institucion;m:documentLanguage.EQ.es;p:Inter;","unidades":"KB"}]]]></datasets>
+		<descripcion><![CDATA[<p>Este conjunto de datos contiene por cada uno de los departamentos del Gobierno Vasco y Organismos Aut&#243;nomos dependientes la siguiente informaci&#243;n:</p><ul><li><strong>Organigrama</strong>: estructura organizativa y cargos pol&#237;ticos designados.</li><li><strong>Marco legal</strong>: normativa que regula la estructura del departamento u Organismo Aut&#243;nomo.</li><li><strong>&#193;reas de actuaci&#243;n</strong>: funciones y competencias que le corresponden.</li><li><strong>Entes y Registros</strong>: entidades p&#250;blicas (organismos, entes, sociedades u otros &#243;rganos) y registros dependientes.</li></ul><p>Los datos se encuentran accesibles a trav&#233;s de la API de euskadi.net o descargables en un ZIP.</p>]]></descripcion>
+		<informacion_complementaria><![CDATA[<p class="parrafo_contenedor"><a class="busqueda_individual" title="C&#243;mo utilizar la API del buscador de euskadi.net" href="http://opendata.euskadi.net/w79-utilizar/es/contenidos/informacion/api_buscador_euskadinet/es_java/como_utilizar.html">C&#243;mo usar la API</a></p>]]></informacion_complementaria>
+		<documentos_descarga>
+			<documento_descarga>
+				<tamanio_descarga>0.0</tamanio_descarga>
+				<enlace_descarga><![CDATA[/w79-contdata/es/contenidos/ds_organizacion/organizacion_estructura/opendata/organizacion_estructura_es.zip]]></enlace_descarga>
+				<unidad_descarga><![CDATA[5058]]></unidad_descarga>
+				<texto_enlace><![CDATA[ZIP]]></texto_enlace>
+				<formato_descarga><![CDATA[5065]]></formato_descarga>
+				<target_descarga><![CDATA[1]]></target_descarga>
+			</documento_descarga>
+			<documento_descarga>
+				<tamanio_descarga>0.0</tamanio_descarga>
+				<enlace_descarga><![CDATA[http://opendata.euskadi.net/w79-resbus/es?r01kQry=tC:euskadi;tF:organizacion;tT:institucion;m:documentLanguage.EQ.es;p:Inter;]]></enlace_descarga>
+				<unidad_descarga><![CDATA[5058]]></unidad_descarga>
+				<texto_enlace><![CDATA[API]]></texto_enlace>
+				<formato_descarga><![CDATA[5432]]></formato_descarga>
+				<target_descarga><![CDATA[1]]></target_descarga>
+			</documento_descarga>
+		</documentos_descarga>
+		<formats><![CDATA[5065,5432]]></formats>
+	</datos_generales>
+</opendata>

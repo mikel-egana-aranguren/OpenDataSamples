@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opendata SYSTEM "/iwmnt/euskadiplus/main/r01_system/WORKAREA/wr01_system_loc/templatedata/editorial/opendata/openta.dtd">
+<opendata>
+	<datos_generales>
+		<denominacion> Poblaci&amp;oacute;n de 10 y m&amp;aacute;s
+			a&amp;ntilde;os de la C.A. de Euskadi no estudiante por los estudios
+			realizados y la edad, seg&amp;uacute;n el sexo. 2011</denominacion>
+		<es_estadistica>0</es_estadistica>
+		<datos_eustat>
+			<texto_eustat> Poblaci&amp;oacute;n de 10 y m&amp;aacute;s
+				a&amp;ntilde;os de la C.A. de Euskadi no estudiante por los estudios
+				realizados y la edad, seg&amp;uacute;n el sexo. 2011</texto_eustat>
+			<enlace_eustat>http://www.eustat.es/elem/ele0011100/tbl0011169_c.html</enlace_eustat>
+			<target_eustat>0</target_eustat>
+			<imagen_eustat>http://www.eustat.es/images/logo_eustat.gif</imagen_eustat>
+			<tipo_estadistica>29</tipo_estadistica>
+		</datos_eustat>
+		<documentos_descarga>
+			<documento_descarga>
+				<enlace_descarga>http://www.eustat.es/elem/ele0011100/xls0011169_c.csv</enlace_descarga>
+				<target_descarga>0</target_descarga>
+				<formato_descarga>5061</formato_descarga>
+				<tamanio_descarga>9,4697265625</tamanio_descarga>
+				<unidad_descarga>5058</unidad_descarga>
+			</documento_descarga>
+			<documento_descarga>
+				<enlace_descarga>http://www.eustat.es/elem/ele0011100/xls0011169_c.xls</enlace_descarga>
+				<target_descarga>1</target_descarga>
+				<formato_descarga>5062</formato_descarga>
+				<tamanio_descarga>37,5</tamanio_descarga>
+				<unidad_descarga>5058</unidad_descarga>
+			</documento_descarga>
+		</documentos_descarga>
+		<formats>5061,5062</formats>
+		<datasets>[{"tipo":"CSV","path":"http://www.eustat.es/elem/ele0011100/xls0011169_c.csv","tamanio":"9,4697265625","unidades":"Kb"},
+			{"tipo":"XLS","path":"http://www.eustat.es/elem/ele0011100/xls0011169_c.xls","tamanio":"37,5","unidades":"Kb"}]</datasets>
+		<descripcion>Las operaciones Estad&amp;iacute;stica de la Actividad
+			Escolar (EAE) y Estad&amp;iacute;stica Universitaria (EU), de
+			car&amp;aacute;cter censal y anual, permiten el conocimiento del
+			sistema educativo y su evoluci&amp;oacute;n tanto en los estudios
+			superiores (tercer grado) como en los estudios previos (primaria y
+			secundaria), respectivamente, suministrando a los organismos
+			oficiales y a la sociedad en general las principales cifras del
+			sistema educativo. Se analizan todos los centros que imparten
+			ense&amp;ntilde;anza reglada incluidos en el Registro de Centros
+			Educativos del Gobierno Vasco, sean del sector p&amp;uacute;blico o
+			del privado.</descripcion>
+		<orden>0</orden>
+	</datos_generales>
+	<detalle_datos>
+		<tema></tema>
+		<fuente_departamentos>Eustat. Censos de Poblaci&amp;oacute;n y
+			Viviendas.2011</fuente_departamentos>
+		<fecha_creacion>11/12/2013</fecha_creacion>
+		<fecha_difusion>11/12/2013</fecha_difusion>
+		<periodicidad>36</periodicidad>
+		<periodo_inicio></periodo_inicio>
+		<periodo_fin>2011</periodo_fin>
+	</detalle_datos>
+	<enlaces_documentaciones_asociadas>
+		<enlace_documentacion_asociada>
+			<texto>Informes y documentos</texto>
+			<enlace_relacionado>http://www.eustat.es/estad/temalista.asp?tema=279&amp;tipo=3&amp;opt=0&amp;mas=&amp;idioma=c&amp;otro=</enlace_relacionado>
+			<target_documento>si</target_documento>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto>Definiciones</texto>
+			<enlace_relacionado>http://www.eustat.es/estad/temalista.asp?tema=279&amp;tipo=5&amp;opt=0&amp;mas=&amp;idioma=c&amp;otro=</enlace_relacionado>
+			<target_documento>si</target_documento>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto>Metodolog&amp;iacute;a y Calidad</texto>
+			<enlace_relacionado>http://www.eustat.es/estad/temalista.asp?tema=279&amp;tipo=7&amp;opt=0&amp;mas=&amp;idioma=c&amp;otro=</enlace_relacionado>
+			<target_documento>si</target_documento>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto>C&amp;oacute;digos y nomenclaturas</texto>
+			<enlace_relacionado>http://www.eustat.es/estad/temalista.asp?tema=279&amp;tipo=9&amp;opt=0&amp;mas=&amp;idioma=c&amp;otro=</enlace_relacionado>
+			<target_documento>si</target_documento>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto>Principales Indicadores Estructurales</texto>
+			<enlace_relacionado>http://www.eustat.es/indic/indicadores.asp?idioma=c&amp;indictipo=2</enlace_relacionado>
+			<target_documento>si</target_documento>
+		</enlace_documentacion_asociada>
+	</enlaces_documentaciones_asociadas>
+</opendata>

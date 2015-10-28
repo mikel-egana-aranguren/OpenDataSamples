@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opendata>
+	<detalle_datos>
+		<fuente_departamentos><![CDATA[Departamento de Administración Pública y Justicia. Órgano Estadístico Específico.]]></fuente_departamentos>
+		<licencia><![CDATA[]]>
+		</licencia>
+		<periodicidad><![CDATA[33]]></periodicidad>
+		<etiquetas><![CDATA[]]>
+		</etiquetas>
+	</detalle_datos>
+	<enlaces_documentaciones_asociadas>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Descripción de ficheros y base de datos. Instrucciones]]></texto>
+			<formato_documento><![CDATA[.doc]]></formato_documento>
+			<target_documento><![CDATA[1]]></target_documento>
+			<tamanio_documento>3745280.0</tamanio_documento>
+			<enlace_relacionado><![CDATA[/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/adjuntos/02_INSTRUCCIONES_ZERPA2012_c.doc]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Glosario de términos sobre administración electrónica]]></texto>
+			<formato_documento><![CDATA[.pdf]]></formato_documento>
+			<target_documento><![CDATA[1]]></target_documento>
+			<tamanio_documento>288479.0</tamanio_documento>
+			<enlace_relacionado><![CDATA[/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/adjuntos/01_GLOSARIO-ESPE2010_c.pdf]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Directorio de Portales Públicos ATARIKA 2012]]></texto>
+			<target_documento><![CDATA[1]]></target_documento>
+			<enlace_relacionado><![CDATA[http://www.jusap.ejgv.euskadi.net/r47-edukia/es/contenidos/estadistica/jusap_ooee_atarika2012/es_def/index.shtml]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Estadísticas del Departamento de Administración Pública y Justicia]]></texto>
+			<target_documento><![CDATA[1]]></target_documento>
+			<enlace_relacionado><![CDATA[http://www.jusap.ejgv.euskadi.net/r47-edukia/es/contenidos/informacion/jusap_ooee_portal_estadisticas/es_portal/estadisticas.html]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto><![CDATA[Notas de prensa - Órgano Estadístico Específico del Departamento de Administración Pública y Justicia]]></texto>
+			<target_documento><![CDATA[1]]></target_documento>
+			<enlace_relacionado><![CDATA[http://www.jusap.ejgv.euskadi.net/notas-prensa-estadistica-justicia-administracion-publica//r47-edukia/es/]]></enlace_relacionado>
+		</enlace_documentacion_asociada>
+	</enlaces_documentaciones_asociadas>
+	<datos_generales>
+		<orden><![CDATA[0]]></orden>
+		<es_estadistica>0</es_estadistica>
+		<denominacion>Directorio de Servicios Públicos Avanzados ZERPA 2012
+		</denominacion>
+		<datasets><![CDATA[[]]]></datasets>
+		<descripcion><![CDATA[<p>ZERPA2012 (Servicios P&#250;blicos Avanzados) se constituye como un repositorio que archiva, clasifica y actualiza peri&#243;dicamente el conjunto de servicios, procedimientos y tr&#225;mites ofertados por los portales de los distintos entes de las administraciones y sector p&#250;blico de la C. A. de Euskadi.</p><p>Como marco de investigaci&#243;n y recogida se ha utilizado el Directorio de Administraciones P&#250;blicas provisional de 2010 de Eustat, que contiene 1.164 entidades. No se han incluido los entes p&#250;blicos de la Administraci&#243;n General del Estado con sede en la C. A. de Euskadi y los centros escolares p&#250;blicos no universitarios.</p><p>El per&#237;odo de recogida de la informaci&#243;n y de referencia de enlaces se indica en cada unidad. Para aproximadamente la mitad de procedimientos y tr&#225;mites fue: del 13 de septiembre de 2010 al 25 de febrero de 2011, actualiz&#225;ndose el resto entre el 29 de septiembre y el 16 de noviembre de 2012. Servicios y contenidos tienen como referencia temporal el primer per&#237;odo citado. Est&#225;n previstas actualizaciones parciales todos los a&#241;os y completas cada cinco.</p>]]></descripcion>
+		<datos_eustat>
+			<eustatLink><![CDATA[<p><img class="r01AlignImgLeft" src="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/images/calc_ods.jpg" alt="OOCalc" width="50" height="50" /><a href="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/adjuntos/DIRECTORIO2012.ods" target="_blank">Directorio de Servicios P&#250;blicos Avanzados ZERPA 2012</a> (.ods, 3.84MB)</p><p>&#160;</p><p><img class="r01AlignImgLeft" src="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/images/access_2003.jpg" alt="Access 2003" width="50" height="50" /><a href="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/adjuntos/DIRECTORIO2012.mdb" target="_blank">Directorio de Servicios P&#250;blicos Avanzados ZERPA 2012</a> (.mdb, 72.5MB)</p><p>&#160;</p><p><img class="r01AlignImgLeft" src="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/images/access_2010.jpg" alt="Access 2010" width="50" height="50" /><a href="/contenidos/estadistica/jusap_ooee_zerpa2012/es_def/adjuntos/DIRECTORIO2012.accdb" target="_blank">Directorio de Servicios P&#250;blicos Avanzados ZERPA 2012</a> (.accdb, 71.9MB)</p>]]></eustatLink>
+		</datos_eustat>
+		<formats><![CDATA[]]>
+		</formats>
+	</datos_generales>
+</opendata>

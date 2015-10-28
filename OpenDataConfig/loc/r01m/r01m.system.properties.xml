@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<resourcesLoader id='i18nResourcesLoader' type='CLASSPATH'>
+		<reloadControl impl='PERIODIC' enabled='true' checkInterval='300s'>	<!-- PERIODIC, BBDD, CONTENT_SERVER_FILE_LAST_MODIF_TIMESTAMP, FILE_LAST_MODIF_TIMESTAMP, VOID -->	
+																			<!-- check for reoloading every 300sg -->
+			<props>
+				<period>300s</period>		<!-- Reload every 300sg -->
+			</props>
+		</reloadControl>
+	</resourcesLoader>
+</properties>
+

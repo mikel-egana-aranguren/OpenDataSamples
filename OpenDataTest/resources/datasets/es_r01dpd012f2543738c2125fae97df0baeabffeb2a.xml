@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opendata SYSTEM "/iwmnt/euskadiplus/main/r01_system/WORKAREA/wr01_system/templatedata/editorial/opendata/opendata.dtd">
+<opendata>
+	<datos_generales>
+		<denominacion>Elecciones Congreso de los Diputados 1977 - Comunidad
+			Autónoma de Euskadi</denominacion>
+		<es_estadistica>1</es_estadistica>
+		<datos_eustat>
+			<texto_eustat />
+			<enlace_eustat />
+			<target_eustat>1</target_eustat>
+			<imagen_eustat />
+			<tipo_estadistica />
+		</datos_eustat>
+		<informacion_complementaria />
+		<documentos_descarga>
+			<documento_descarga>
+				<enlace_descarga>http://www.interior.ejgv.euskadi.net/emaitzak/excel/xls/G77_c.zip</enlace_descarga>
+				<target_descarga>1</target_descarga>
+				<formato_descarga>5062</formato_descarga>
+				<tamanio_descarga>296</tamanio_descarga>
+				<unidad_descarga>5058</unidad_descarga>
+			</documento_descarga>
+			<documento_descarga>
+				<enlace_descarga>http://www.interior.ejgv.euskadi.net/emaitzak/excel/csv/G77_c.zip</enlace_descarga>
+				<target_descarga>0</target_descarga>
+				<formato_descarga>5061</formato_descarga>
+				<tamanio_descarga />
+				<unidad_descarga />
+			</documento_descarga>
+		</documentos_descarga>
+		<datasets>[{"tipo":"XLS","path":"http://www.interior.ejgv.euskadi.net/emaitzak/excel/xls/G77_c.zip","tamanio":"296","unidades":"Kb"},{"tipo":"CSV","path":"http://www.interior.ejgv.euskadi.net/emaitzak/excel/csv/G77_c.zip","tamanio":"0","unidades":""}]</datasets>
+		<formats>5062,5061</formats>
+		<descripcion>&lt;p&gt;En esta ficha se presentan los resultados
+			electorales de las elecciones a Congreso de los Diputados en Euskadi
+			celebradas el 15 de junio de 1977.&lt;/p&gt;
+			&lt;p&gt;Los datos se encuentran agrupados en 4 ficheros, con los siguientes
+			niveles de agrupaci&amp;oacute;n:&lt;/p&gt;
+			&lt;ul&gt;
+			&lt;li&gt;Mesa Electoral&lt;/li&gt;
+			&lt;li&gt;Municipio&lt;/li&gt;
+			&lt;li&gt;Circunscripciones&lt;/li&gt;
+			&lt;li&gt;Listas electorales finales&lt;/li&gt;
+			&lt;/ul&gt;</descripcion>
+		<orden>4000</orden>
+	</datos_generales>
+	<detalle_datos>
+		<tema>Administración digital;
+			Elecciones</tema>
+		<ambito_geografico />
+		<etiquetas>Resultados Procesos Electorales, Elecciones, Congreso de
+			los Diputados</etiquetas>
+		<fuente_departamentos>Gobierno Vasco. Departemento de Interior.</fuente_departamentos>
+		<licencia>&lt;A class=cc-by title="Más información sobre la licencia
+			Creative Commons"
+			href="http://creativecommons.org/licenses/by/3.0/es/"&gt;&lt;ACRONYM
+			title="Creative Commons"&gt;CC&lt;/ACRONYM&gt;-by &lt;/A&gt;&lt;A
+			href="http://opendata.euskadi.net/w79-contgen/es/contenidos/informacion/informacion_legal/es_6303/informacion_legal.html"&gt;Información
+			legal&lt;/A&gt;</licencia>
+		<fecha_creacion>05/04/2011</fecha_creacion>
+		<fecha_difusion>24/05/2011</fecha_difusion>
+		<periodicidad>36</periodicidad>
+		<periodo_inicio>15/06/1977</periodo_inicio>
+		<periodo_fin>15/06/1977</periodo_fin>
+	</detalle_datos>
+	<enlaces_documentaciones_asociadas>
+		<enlace_documentacion_asociada>
+			<texto>Archivo de resultados electorales del Departamento de Interior
+				del Gobierno Vasco</texto>
+			<enlace_relacionado>http://www9.euskadi.net/emaitzak/indice_c.htm</enlace_relacionado>
+			<target_documento>1</target_documento>
+			<formato_documento>4793</formato_documento>
+			<tamanio_documento />
+			<unidad_documento />
+		</enlace_documentacion_asociada>
+		<enlace_documentacion_asociada>
+			<texto>Todas las elecciones en Euskadi desde 1977 </texto>
+			<enlace_relacionado>/w79-resformx/es?r01kQry=tC%3Aeuskadi%3BtF%3Aopendata%3BtT%3Ads_general%3Bm%3AdocumentLanguage.EQ.es%3BcA%3Ar01e00000ff26d46241a470b8fa7bd061aa2b6438%3Bp%3AInter_portal%2CInter%3B</enlace_relacionado>
+			<target_documento>1</target_documento>
+			<formato_documento>4793</formato_documento>
+			<tamanio_documento />
+			<unidad_documento />
+		</enlace_documentacion_asociada>
+	</enlaces_documentaciones_asociadas>
+</opendata>

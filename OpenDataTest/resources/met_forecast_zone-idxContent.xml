@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<content oid='r01dpd013c157c93fa1ecd272835fee59d604b3d2'
+	objectType='0'>
+	<boosting>1</boosting>
+	<portalDataContentSEOName><![CDATA[]]>
+	</portalDataContentSEOName>
+	<storage>
+		<server oid='ejlp013'>
+			<path>//iwmnt/</path>
+			<name>
+				<es>Gestor Contenidos PRODUCCIÓN (ejlp013)</es>
+				<eu>Eduki Kudeatzailea USTIAPENA (ejlp013)</eu>
+			</name>
+		</server>
+		<workArea oid='wmeteg2'>
+			<path>//iwmnt/euskadi/main/meteorologia/WORKAREA/wmeteg2/</path>
+			<name>
+				<es>wmeteg2</es>
+				<eu>e_wmeteg2</eu>
+			</name>
+		</workArea>
+		<area oid='meteorologia'>
+			<path>//iwmnt/euskadi/main/meteorologia/</path>
+			<name>
+				<es>meteorologia</es>
+				<eu>e_meteorologia</eu>
+			</name>
+		</area>
+		<dataStore oid='euskadi'>
+			<path>//iwmnt/euskadi/</path>
+			<name>
+				<es>Euskadi.net</es>
+				<eu>Euskadi.net</eu>
+			</name>
+		</dataStore>
+	</storage>
+	<structureCatalogs>
+		<structureCatalog labelOid='r01epd0122e4ed314423e0db04c97a47b5baa317f'
+			labelRoleInStructure='1' structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c'
+			labelNumericId='6790'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Baskische Regierung]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Gobierno Vasco]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Basque Government]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Eusko Jaurlaritza]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Gouvernement Basque]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e00000fe4e66771ba470b88bf55ea1f734f3c6'
+			labelRoleInStructure='2' structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c'
+			labelNumericId='180'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Inneres]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Seguridad]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Segurtasuna]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Security]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Intérieur]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e00000ff26d4658da470b84d7d5a3a26c0c8c9'
+			labelRoleInStructure='3' structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c'
+			labelNumericId='444'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Staatsekretariat für Inneres]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Viceconsejería de Interior]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Herrizaingo Sailburuordetza]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Vice-ministry of the Interior]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Vice-ministère de l'Intérieur ]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e000000ff26d466e5a470b87974de1f0cb1cbd'
+			labelRoleInStructure='4' structureOid='r01e00000fe4e6676dda470b8deed65c9bfe02f4c'
+			labelNumericId='528'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Ministerialabteilung für Notfallbetreuung und Meteorologie]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Dirección de Atención de Emergencias y Meteorología]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Larrialdiei Aurre Egiteko eta Meteorologiako Zuzendaritza]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Office of Emergency Management and Meteorology]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Direction de l'Attention aux Urgences et de la Météorologie]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e00000ff26d46212a470b845ecb637861b7081'
+			labelRoleInStructure='1' structureOid='r01e00000fe4e6676dda470b898e584a4a1047312'
+			labelNumericId='61'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Umwelt]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Medio Ambiente]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Environment]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Ingurumena]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Environnement]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e00000ff26d46232a470b8b4014f52678d969c'
+			labelRoleInStructure='2' structureOid='r01e00000fe4e6676dda470b898e584a4a1047312'
+			labelNumericId='77'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Meteorologie]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Meteorología]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[Meteorology]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Meteorologia]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Météorologie ]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+		<structureCatalog labelOid='r01e00000ff26d461a5a470b832d9102c1a18bea0'
+			labelRoleInStructure='1' structureOid='r01e00000fe4e6676dda470b8e96ebfb4e7b967c9'
+			labelNumericId='1'>
+			<terms>
+				<term lang='de'>
+					<termText><![CDATA[Personen]]></termText>
+				</term>
+				<term lang='es'>
+					<termText><![CDATA[Personas]]></termText>
+				</term>
+				<term lang='en'>
+					<termText><![CDATA[People]]></termText>
+				</term>
+				<term lang='eu'>
+					<termText><![CDATA[Pertsonak]]></termText>
+				</term>
+				<term lang='fr'>
+					<termText><![CDATA[Personnes]]></termText>
+				</term>
+			</terms>
+		</structureCatalog>
+	</structureCatalogs>
+	<editURLs>
+		<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></es>
+		<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></eu>
+	</editURLs>
+	<documents>
+		<document oid='r01dpd013c157c93fc1ecd2723c26f54c3fdb69ac'
+			objectType='1'>
+			<dataFiles>
+				<dataFile metaDataContainer='true' mainDataFile='true'
+					oid='r01dpd013c157c93fc1ecd272c6f159e66355d113' objectType='2'>
+					<publishedContentRelativePath>prevision_tiempo/met_forecast_zone/es_areas/data/es_r01dpd013c157c93fc1ecd272c6f159e66355d113
+					</publishedContentRelativePath>
+					<defaultTemplateGeneratedFileDocumentRelativePath>web.html
+					</defaultTemplateGeneratedFileDocumentRelativePath>
+					<editURLs>
+						<es><![CDATA[/iw-cc/command/iw.ccpro.launch_edit_form?vpath=//ejlp013/euskadi/main/meteorologia/WORKAREA/wmeteg2/templatedata/v78_meteorologia/meteorologia/data/es_r01dpd013c157c93fc1ecd272c6f159e66355d113]]></es>
+						<eu><![CDATA[/iw-cc/command/iw.ccpro.launch_edit_form?vpath=//ejlp013/euskadi/main/meteorologia/WORKAREA/wmeteg2/templatedata/v78_meteorologia/meteorologia/data/es_r01dpd013c157c93fc1ecd272c6f159e66355d113]]></eu>
+					</editURLs>
+					<generatedFilesDocumentRelativePaths>
+						<meteorologia>main:web.html</meteorologia>
+					</generatedFilesDocumentRelativePaths>
+					<internalName>web</internalName>
+					<dataCaptureTemplate>meteorologia</dataCaptureTemplate>
+					<workAreaRelativePath>templatedata/v78_meteorologia/meteorologia/data/es_r01dpd013c157c93fc1ecd272c6f159e66355d113
+					</workAreaRelativePath>
+					<createDate>04/02/2013 [21:47:49:234]</createDate>
+					<name><![CDATA[web]]></name>
+					<author>v78</author>
+				</dataFile>
+			</dataFiles>
+			<approvalStatus>0</approvalStatus>
+			<editURLs>
+				<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></es>
+				<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></eu>
+			</editURLs>
+			<portalDataDocumentSEODescription><![CDATA[]]>
+			</portalDataDocumentSEODescription>
+			<workAreaRelativePath>prevision_tiempo/met_forecast_zone/es_areas
+			</workAreaRelativePath>
+			<tags><![CDATA[]]>
+			</tags>
+			<name><![CDATA[Predicción por comarcas]]></name>
+			<publicationInfo>
+				<publishContext repositoryNumericId='1'
+					repositoryAlias='contenidos' state='1' repositoryOid='Inter'>
+					<publishDate>04/02/2013 [21:47:57:525]</publishDate>
+				</publishContext>
+			</publicationInfo>
+			<depthLevel></depthLevel>
+			<urlsByLanguage>
+				<Inter><![CDATA[{es=/contenidos/prevision_tiempo/met_forecast_zone/es_areas/web.html, eu=/contenidos/prevision_tiempo/met_forecast_zone/eu_areas/web.html}]]></Inter>
+			</urlsByLanguage>
+			<contentRelativePath>es_areas</contentRelativePath>
+			<language>es</language>
+			<portalDataDocumentSEOName><![CDATA[]]>
+			</portalDataDocumentSEOName>
+			<internalName>areas</internalName>
+			<description><![CDATA[Predicción por comarcas]]></description>
+			<createDate>07/01/2013 [15:49:11:418]</createDate>
+			<author>v78</author>
+		</document>
+		<document oid='r01dpd013c157c93fc1ecd27259691c01a550fe5f'
+			objectType='1'>
+			<dataFiles>
+				<dataFile metaDataContainer='true' mainDataFile='true'
+					oid='r01dpd013c157c93fc1ecd272b0f53748c880e8ff' objectType='2'>
+					<publishedContentRelativePath>prevision_tiempo/met_forecast_zone/eu_areas/data/eu_r01dpd013c157c93fc1ecd272b0f53748c880e8ff
+					</publishedContentRelativePath>
+					<defaultTemplateGeneratedFileDocumentRelativePath>web.html
+					</defaultTemplateGeneratedFileDocumentRelativePath>
+					<editURLs>
+						<es><![CDATA[/iw-cc/command/iw.ccpro.launch_edit_form?vpath=//ejlp013/euskadi/main/meteorologia/WORKAREA/wmeteg2/templatedata/v78_meteorologia/meteorologia/data/eu_r01dpd013c157c93fc1ecd272b0f53748c880e8ff]]></es>
+						<eu><![CDATA[/iw-cc/command/iw.ccpro.launch_edit_form?vpath=//ejlp013/euskadi/main/meteorologia/WORKAREA/wmeteg2/templatedata/v78_meteorologia/meteorologia/data/eu_r01dpd013c157c93fc1ecd272b0f53748c880e8ff]]></eu>
+					</editURLs>
+					<generatedFilesDocumentRelativePaths>
+						<meteorologia>main:web.html</meteorologia>
+					</generatedFilesDocumentRelativePaths>
+					<internalName>web</internalName>
+					<dataCaptureTemplate>meteorologia</dataCaptureTemplate>
+					<workAreaRelativePath>templatedata/v78_meteorologia/meteorologia/data/eu_r01dpd013c157c93fc1ecd272b0f53748c880e8ff
+					</workAreaRelativePath>
+					<createDate>04/02/2013 [21:47:49:234]</createDate>
+					<name><![CDATA[web]]></name>
+					<author>v78</author>
+				</dataFile>
+			</dataFiles>
+			<approvalStatus>0</approvalStatus>
+			<editURLs>
+				<es><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></es>
+				<eu><![CDATA[/r01dContentManagerWar/r01dLoadAdminContent.jsp?oid=r01dpd013c157c93fa1ecd272835fee59d604b3d2]]></eu>
+			</editURLs>
+			<portalDataDocumentSEODescription><![CDATA[]]>
+			</portalDataDocumentSEODescription>
+			<workAreaRelativePath>prevision_tiempo/met_forecast_zone/eu_areas
+			</workAreaRelativePath>
+			<tags><![CDATA[]]>
+			</tags>
+			<name><![CDATA[eu-Predicción por comarcas]]></name>
+			<publicationInfo>
+				<publishContext repositoryNumericId='1'
+					repositoryAlias='contenidos' state='1' repositoryOid='Inter'>
+					<publishDate>04/02/2013 [21:47:57:645]</publishDate>
+				</publishContext>
+			</publicationInfo>
+			<depthLevel></depthLevel>
+			<urlsByLanguage>
+				<Inter><![CDATA[{es=/contenidos/prevision_tiempo/met_forecast_zone/es_areas/web.html, eu=/contenidos/prevision_tiempo/met_forecast_zone/eu_areas/web.html}]]></Inter>
+			</urlsByLanguage>
+			<contentRelativePath>eu_areas</contentRelativePath>
+			<language>eu</language>
+			<portalDataDocumentSEOName><![CDATA[]]>
+			</portalDataDocumentSEOName>
+			<internalName>areas</internalName>
+			<description><![CDATA[eu-Predicción por comarcas]]></description>
+			<createDate>07/01/2013 [15:49:11:418]</createDate>
+			<author>v78</author>
+		</document>
+	</documents>
+	<typo numericId='1130132'>
+		<family oid='meteorologia' numericId='13'>
+			<name>
+				<es>Meteorologia</es>
+				<eu>Meteorologia</eu>
+			</name>
+		</family>
+		<type oid='prevision_tiempo' numericId='132'>
+			<name>
+				<es>Prevision Tiempo</es>
+				<en>en_Prevision Tiempo</en>
+				<eu>Eguraldi Iragarpena</eu>
+			</name>
+			<searchTerms>
+				<es>Predicción,Meteorología,Meteorológico,Meteo,Tiempo,Pronóstico,Previsión,Previsión
+					meteorológica,Pronóstico</es>
+				<eu>Iragarpena,Meteorologia,Meteorologiko,Meteo,Eguraldi,Iragarpena,Aurreikuspena,Aurreikuspen
+					meteorologikoa</eu>
+			</searchTerms>
+		</type>
+		<cluster oid='euskadi' numericId='1'>
+			<name>
+				<es>Contenidos de Euskadi.net</es>
+				<eu>Euskadi.neteko edukiak</eu>
+			</name>
+		</cluster>
+	</typo>
+	<portalDataContentSEODescription><![CDATA[]]>
+	</portalDataContentSEODescription>
+	<internalName>met_forecast_zone</internalName>
+	<responsible>v78</responsible>
+	<workAreaRelativePath>prevision_tiempo/met_forecast_zone
+	</workAreaRelativePath>
+	<createDate>07/01/2013 [15:49:11:418]</createDate>
+	<name><![CDATA[met_forecast_zone]]></name>
+	<newnessUntilDate>07/01/2013 [15:49:11:000]</newnessUntilDate>
+	<author>v78</author>
+</content>
